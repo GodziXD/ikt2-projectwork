@@ -1,0 +1,39 @@
+h1{
+    padding: 30px;
+    text-align: center;
+}
+h2{
+    padding: 30px;
+    text-align: center;
+}
+
+h3{
+    padding: 30px;
+    text-align: center;
+}
+
+h4{
+    padding: 30px;
+    text-align: center;
+}
+
+h5{
+    padding: 30px;
+    text-align: center;
+}
+h6{
+    padding: 30px;
+    text-align: center;
+}
+
+p{
+    margin: 5%;
+}
+
+.cent{
+    margin: 5%;
+    text-align: center;
+}
+ul,li,ol{
+    outline: 1px dotted;
+}
